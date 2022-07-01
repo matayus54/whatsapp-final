@@ -25,7 +25,17 @@ npm run start
 ```sh
 npm run test
 ```
-
+## routes folder
+    
+```shell
+"/"
+'/api/v1'
+'/api/v1/auth'
+    '/conversations/:uuid/participants'
+    '/conversations/:uuid/message'
+    '/conversations/:uuid'
+    '/conversations'
+```
 
 ## Authors
 
